@@ -1,0 +1,3 @@
+{
+  "include": ["components.d.ts", "auto-imports.d.ts"]
+}

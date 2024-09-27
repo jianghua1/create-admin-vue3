@@ -1,0 +1,9 @@
+{
+  "name": "config-base",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "unplugin-auto-import": "^0.16.7",
+    "unplugin-vue-components": "^0.25.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "config-router",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "unplugin-vue-router": "^0.7.0"
+  }
+}

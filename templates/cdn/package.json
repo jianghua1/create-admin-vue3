@@ -1,0 +1,9 @@
+{
+  "name": "template-cdn",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "vite-plugin-cdn2": "^0.16.0"
+  }
+}
